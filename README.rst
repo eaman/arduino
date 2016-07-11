@@ -21,6 +21,18 @@ Guida
 * GIT: https://git-scm.com/docs/user-manual.html 
 * Github: https://github.com/eaman/arduino
 
+
+Comandi di base
+--------------------
+
+
+* Per clonare: git clone https://github.com/eaman/arduino.git
+* Stato del repo: git status
+* Aggiungere files: git add .
+* Commit: git commit
+* per caricare: git push
+
+
 ToDo
 ========
 
